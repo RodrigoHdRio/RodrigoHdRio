@@ -8,7 +8,7 @@
 ---
 
 ## 📘 About Me
-Hi! I’m **Rodrigo Holguera**, a Business Administration student at IE University.  
+Hi!👋 I’m **Rodrigo Holguera**, a Business Administration student at IE University.  
 I’m interested in the intersection of **technology, data, and business**, particularly how **data-driven systems and visualizations** can support decision-making and help organizations scale.
 
 Alongside my core business curriculum, I have focused on building technical skills through coursework and projects. To deepen this focus, I studied as an exchange student at the **University of Maryland**, where I completed information systems and data-oriented courses.
