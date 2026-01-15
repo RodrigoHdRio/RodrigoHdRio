@@ -40,8 +40,8 @@ Alongside my core business curriculum, I have focused on building technical skil
 ---
 
 ## 🛠 Technical Skills
--**Programming:** Python  
--**Data & ML:** pandas, PySpark, NumPy, matplotlib, scikit-learn
--**Familiar with:** SQL
--**Tools & Platforms:** Jupyter, VS Code, Microsoft Fabric
+- **Programming:** Python  
+- **Data & ML:** pandas, PySpark, NumPy, matplotlib, scikit-learn
+- **Familiar with:** SQL
+- **Tools & Platforms:** Jupyter, VS Code, Microsoft Fabric
 
