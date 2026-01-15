@@ -1,52 +1,39 @@
-# 🏆 Welcome to Rodrigo HdRio's GitHub 🏆
+# 🏆 Welcome to Rodrigo's GitHub 🏆
 
-**Bocconi University** | Computer Science  
-📍 Milan, Italy  
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
-📧 Email: your.email@domain.com  
+**IE University** | BBA
+📍 Madrid, Spain  
+🔗 LinkedIn: www.linkedin.com/in/rodrigo-holguera
+📧 Email: rodrigo.holguera@gmail.com  
 
 ---
 
 ## 📘 About Me
-Hi! I’m **Rodrigo**, a Computer Science student at Bocconi University.  
-I’m interested in **Artificial Intelligence, Machine Learning**, and **high-performance systems**, and I enjoy building projects that combine strong theoretical foundations with real-world applications.
+Hi! I’m **Rodrigo Holguera**, a Business Administration student at IE University.  
+I’m interested in the intersection of **technology, data, and business**, particularly how **data-driven systems** can support decision-making and help organizations scale.
+
+Alongside my core business curriculum, I have focused on building technical skills through coursework and projects. To deepen this focus, I studied as an exchange student at the **University of Maryland**, where I completed information systems and data-oriented courses.
+
 
 ---
 
 ## 🎓 Education
-- **Bocconi University** — B.Sc. in Computer Science  
-  *Expected Graduation: YYYY*
-- Relevant coursework:
-  - Data Structures & Algorithms  
-  - Machine Learning  
-  - High Performance Computing  
-  - Operating Systems  
+- **IE University** — B.Sc. in Business Administration  
+  *Expected Graduation: 2026*  
+  Relevant coursework:
+  - Statistics & Data Analysis
 
----
-
-## 🚀 Featured Projects
-- **Project Name**  
-  Short, concrete description of what you built and what problem it solves.
-
-- **Project Name**  
-  Mention the core idea + technology (e.g., ML model, system design, performance).
-
-- **Project Name**  
-  Focus on outcomes, not hype.
-
-*(You can leave this section even if projects are not ready yet.)*
+- **Exchange Student**, **University of Maryland**  
+  *College Park, MD, USA | Spring 2025*
+  ** SEMESTER ACADEMIC HONORS **
+  Focus: programming and data-oriented coursework  
+  - Database Design & Modeling  
+  - Data Visualization & Web Analytics
 
 ---
 
 ## 🛠 Technical Skills
-**Languages:** Python, C++, Java  
-**ML:** PyTorch, NumPy, scikit-learn  
-**Systems:** Linux, Git, Docker  
-**Tools:** VS Code, Jupyter, Bash  
-
----
-
-## 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
-- Email: mailto:your.email@domain.com
+**Programming:** Python  
+**Data & ML:** pandas, PySpark, NumPy, scikit-learn
+**Familiar with:** SQL
+**Tools & Platforms:** Jupyter, VS Code, Microsoft Fabric
 
