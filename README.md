@@ -4,7 +4,6 @@
 📍 Madrid, Spain  
 🔗 LinkedIn: www.linkedin.com/in/rodrigo-holguera
 📧 Email: rodrigo.holguera@gmail.com 
-Tableau: https://public.tableau.com/app/profile/rodrigo.hdlr
 
 ---
 
