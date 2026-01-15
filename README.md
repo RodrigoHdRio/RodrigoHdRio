@@ -25,6 +25,7 @@ Alongside my core business curriculum, I have focused on building technical skil
 - **Exchange Student**, **University of Maryland**  
   *College Park, MD, USA | Spring 2025*
   ** SEMESTER ACADEMIC HONORS **
+  
   Focus: programming and data-oriented coursework  
   - Database Design & Modeling  
   - Data Visualization & Web Analytics
