@@ -18,7 +18,7 @@ Alongside my core business curriculum, I have focused on building technical skil
 ## 🎓 Education
 - **IE University**  B.Sc. in Business Administration  
   *Expected Graduation: 2026*  
-  Relevant coursework:
+  Relevant Programming coursework:
   - Statistics & Data Analysis
 
 - **Exchange Student**, **University of Maryland**  
