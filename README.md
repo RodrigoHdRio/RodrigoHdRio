@@ -1,4 +1,4 @@
-# ◉ Welcome to Rodrigo’s GitHub ◉
+# 🧑🏻‍💻 Welcome to Rodrigo’s GitHub 
 **IE University** | BBA
 📍 Madrid, Spain  
 🔗 LinkedIn: www.linkedin.com/in/rodrigo-holguera
